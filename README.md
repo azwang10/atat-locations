@@ -4,4 +4,4 @@ Determines the location of ATAT boxes, the complement of TATA boxes, within half
 
 It was hypothesized that more ATAT boxes would be located at the earlier region of each gene sequence. An ATAT box located early on in a gene may promote RNA polymerase (RNAP) binding in the direction opposite to regular transcription on the DNA and may help regulate gene expression. It has been shown that two RNAPs transcribing RNA in opposite directions on the same gene sequence may collide and bump each other off the DNA. This has the effect for inhibiting gene expression.
 
-From the data though, no clear trend can be seen.
+From the data though, no clear trend can be seen. Final plot is "final_plot.png"
